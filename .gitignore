@@ -1,0 +1,9 @@
+# Large raster source data are not tracked in this repository.
+*.tif
+*.tiff
+*.ovr
+*.tfw
+*.aux.xml
+*.vat.dbf
+*.vat.cpg
+matlab.mat
